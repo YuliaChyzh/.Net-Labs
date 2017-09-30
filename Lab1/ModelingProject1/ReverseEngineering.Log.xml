@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2017-09-30T19:50:59" Importance="High" Text="Реконструирование запущено." />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1&quot; -  (Package)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::AbstractFactory&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::AbstractFactory::AbstractFactory&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::AbstractFactory::CreateCarClassA&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::AbstractFactory::CreateCarClassB&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::AmericanFactory&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::AmericanFactory::AmericanFactory&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::AmericanFactory::CreateCarClassA&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::AmericanFactory::CreateCarClassB&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::CarClassA&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::CarClassA::CarClassA&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::CarClassB&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::CarClassB::CarClassB&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Client&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Client::carclassA&quot; -  (Property)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Client::carclassB&quot; -  (Property)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Client::Client&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Client::Client::factory&quot; -  (Parameter)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Client::Run&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Client::Run::s&quot; -  (Parameter)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::DaewooMatiz&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::DaewooMatiz::DaewooMatiz&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::EuropeanFactory&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::EuropeanFactory::CreateCarClassA&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::EuropeanFactory::CreateCarClassB&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::EuropeanFactory::EuropeanFactory&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Fiat500&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Fiat500::Fiat500&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::FordFiesta&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::FordFiesta::FordFiesta&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Program&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Program::Main&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Program::Main::args&quot; -  (Parameter)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::Program::Program&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::SkodaFabia&quot; -  (Class)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab1::SkodaFabia::SkodaFabia&quot; -  (Operation)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;String&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab1::DaewooMatiz в ModelingProject1::Lab1::CarClassA (Generalization)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab1::EuropeanFactory в ModelingProject1::Lab1::AbstractFactory (Generalization)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab1::Fiat500 в ModelingProject1::Lab1::CarClassA (Generalization)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab1::FordFiesta в ModelingProject1::Lab1::CarClassB (Generalization)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab1::SkodaFabia в ModelingProject1::Lab1::CarClassB (Generalization)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab1::AmericanFactory в ModelingProject1::Lab1::AbstractFactory (Generalization)" />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="High" Text="Полностью реконструировано (11) типов." />
+  <Message Timestamp="2017-09-30T19:51:10" Importance="High" Text="Операция реконструирования завершена; ошибок: (0), предупреждений: (0)." />
+</Log>
