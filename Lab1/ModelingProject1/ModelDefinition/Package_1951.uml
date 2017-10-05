@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
   dslVersion="1.0.0.0"
   Id="24541da2-15d7-4c46-8f8e-8cb06e9cc11a"
   name="Lab1"
@@ -194,6 +194,82 @@
             </propertyInstances>
           </stereotypeInstance>
         </appliedStereotypesInternal>
+        <targetEnds>
+          <association
+            Id="a15461da-4940-40af-ba36-01e2a5bdd5b9"
+            isDerived="false"
+            sourceEndRoleName=""
+            targetEndRoleName=""
+            isLeaf="false"
+            isAbstract="false">
+            <classMoniker
+              Id="682ab46a-5a8d-40e9-8e04-0b89034e87d0"
+              LastKnownName="CarClassB"
+              LastKnownLocation="Package_1951.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="49811946-9fab-43f6-8f0c-2aa03bfd79e9"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="bbd3f022-727c-48ce-882e-a1031907a88c"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="316b273e-67e1-4d51-bb0e-19df72b8afa7"
+            isDerived="false"
+            sourceEndRoleName=""
+            targetEndRoleName=""
+            isLeaf="false"
+            isAbstract="false">
+            <classMoniker
+              Id="d6cc93f9-b914-4b49-8265-48672e1aac6f"
+              LastKnownName="CarClassA"
+              LastKnownLocation="Package_1951.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="5eb75d49-bb8d-4c1c-9405-fed63103dc6d"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="20a52809-546d-440c-81a2-588611d0989b"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
         <ownedAttributesInternal>
           <property
             Id="4c0fe5f4-19a4-4b8d-bd2a-17cbc63e07da"
@@ -1109,6 +1185,22 @@
             </propertyInstances>
           </stereotypeInstance>
         </appliedStereotypesInternal>
+        <suppliersInternal>
+          <dependency
+            Id="ec4b461e-7076-4f81-be83-4a95766eeb99">
+            <classMoniker
+              Id="1e91a3f8-ff27-4b04-a4f5-aca22cd82703"
+              LastKnownName="Fiat500"
+              LastKnownLocation="Package_1951.uml" />
+          </dependency>
+          <dependency
+            Id="3be8df78-2bd3-4af5-be42-3f8dc6b7b039">
+            <classMoniker
+              Id="90c3e430-b06b-4a3d-806e-e86e1420914d"
+              LastKnownName="SkodaFabia"
+              LastKnownLocation="Package_1951.uml" />
+          </dependency>
+        </suppliersInternal>
         <generalsInternal>
           <generalization
             Id="247c0012-0644-4c52-afae-a0b96aea34f2"
@@ -2037,6 +2129,22 @@
             </propertyInstances>
           </stereotypeInstance>
         </appliedStereotypesInternal>
+        <suppliersInternal>
+          <dependency
+            Id="486d4609-d790-4900-88d2-a88ddba4d86e">
+            <classMoniker
+              Id="2cc8d374-89be-40fc-87cf-ed3810b05bb4"
+              LastKnownName="DaewooMatiz"
+              LastKnownLocation="Package_1951.uml" />
+          </dependency>
+          <dependency
+            Id="8f1aeea0-d3d6-40df-a4d6-9e661e9b18e6">
+            <classMoniker
+              Id="bdd60247-8775-476e-94e6-3f94e7b5644c"
+              LastKnownName="FordFiesta"
+              LastKnownLocation="Package_1951.uml" />
+          </dependency>
+        </suppliersInternal>
         <generalsInternal>
           <generalization
             Id="bebd7bf2-d96e-450f-ab2c-5c73380b55a4"
