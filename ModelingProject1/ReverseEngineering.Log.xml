@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/YULIA/ДОКУМЕНТИ/VISUAL STUDIO 2013/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2017-10-27T17:18:08" Importance="High" Text="Реконструирование запущено." />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;1a5a98f4-b4a6-4408-9a21-debc8d6b6351&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Integer&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3&quot; -  (Package)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Calculator&quot; -  (Class)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Calculator::Calculator&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Calculator::curr&quot; -  (Property)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Calculator::Operation&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Calculator::Operation::operand&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Calculator::Operation::operator&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand&quot; -  (Class)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::calculator&quot; -  (Property)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::CalculatorCommand&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::CalculatorCommand::calculator&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::CalculatorCommand::operand&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::CalculatorCommand::operator&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::Execute&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::operand&quot; -  (Property)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::Operand&quot; -  (Property)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::operator&quot; -  (Property)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::Operator&quot; -  (Property)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::Undo&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::Undo::operator&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::CalculatorCommand::UnExecute&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Command&quot; -  (Class)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Command::Command&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Command::Execute&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Command::UnExecute&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Program&quot; -  (Class)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Program::Main&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Program::Main::args&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::Program::Program&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User&quot; -  (Class)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::_calculator&quot; -  (Property)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::_commands&quot; -  (Property)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::_current&quot; -  (Property)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::Compute&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::Compute::operand&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::Compute::operator&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::Redo&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::Redo::levels&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::Undo&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::Undo::levels&quot; -  (Parameter)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab3::User::User&quot; -  (Operation)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System&quot; -  (Package)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Char&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections&quot; -  (Package)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic&quot; -  (Package)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::List&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::List&lt;Command‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;String&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab3::CalculatorCommand в ModelingProject1::System::Char (Association)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab3::CalculatorCommand в ModelingProject1::Lab3::Command (Generalization)" />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="High" Text="Полностью реконструировано (5) типов." />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="High" Text="Частично реконструировано (3) типов.  Эти типы не были включены в исходный выбор, поэтому их полные определения не реконструированы.  Данная пустая операция лишь проверила наличие этих типов в модели UML, поскольку они необходимы для полного описания других элементов." />
+  <Message Timestamp="2017-10-27T17:18:17" Importance="High" Text="Операция реконструирования завершена; ошибок: (0), предупреждений: (0)." />
+</Log>
