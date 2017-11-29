@@ -987,6 +987,12 @@
           </stereotypeInstance>
         </appliedStereotypesInternal>
         <elementDefinition Id="ca92bc02-09a1-4d77-9666-bd84083a60ba" />
+        <suppliersInternal>
+          <dependency Id="9aba3842-93cf-4c2e-8b25-a268d1904836">
+            <classMoniker Id="071effd0-bbad-49ac-86de-f7921592245b" LastKnownName="Cinema" />
+            <elementDefinition Id="9d9a242e-4364-49ab-805b-544cd10b8403" />
+          </dependency>
+        </suppliersInternal>
         <ownedOperationsInternal>
           <operation Id="9ca14b29-04b3-40b4-af2a-287088e9f0f0" name="Equals" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
             <referencesInternal>
@@ -1258,6 +1264,12 @@
           </stereotypeInstance>
         </appliedStereotypesInternal>
         <elementDefinition Id="5d4b4727-1295-4b6a-99e8-19ad79f3e9f8" />
+        <suppliersInternal>
+          <dependency Id="c5a86384-b1bf-46ce-9501-c154d2aff73d">
+            <classMoniker Id="071effd0-bbad-49ac-86de-f7921592245b" LastKnownName="Cinema" />
+            <elementDefinition Id="c8e34dfa-2c40-4150-bbab-363b2969cbc8" />
+          </dependency>
+        </suppliersInternal>
         <ownedAttributesInternal>
           <property Id="bed2af39-b90f-4e09-9a75-95469d88b2c5" name="d1" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
             <referencesInternal>

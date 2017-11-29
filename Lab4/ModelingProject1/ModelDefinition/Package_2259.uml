@@ -1281,6 +1281,15 @@
             </propertyInstances>
           </stereotypeInstance>
         </appliedStereotypesInternal>
+        <suppliersInternal>
+          <dependency
+            Id="c8e34dfa-2c40-4150-bbab-363b2969cbc8">
+            <classMoniker
+              Id="4fcd0f41-0ab7-47b5-ab78-e05523bc83f3"
+              LastKnownName="Cinema"
+              LastKnownLocation="Package_2259.uml" />
+          </dependency>
+        </suppliersInternal>
         <ownedAttributesInternal>
           <property
             Id="58c2583d-bb3c-4d25-828b-4dccd15bb967"
@@ -1588,6 +1597,13 @@
               LastKnownName="IEqualityComparer&lt;Program‎‎.Cinema‎&gt;"
               LastKnownLocation="Package3_2259.uml" />
           </interfaceRealization>
+          <dependency
+            Id="9d9a242e-4364-49ab-805b-544cd10b8403">
+            <classMoniker
+              Id="4fcd0f41-0ab7-47b5-ab78-e05523bc83f3"
+              LastKnownName="Cinema"
+              LastKnownLocation="Package_2259.uml" />
+          </dependency>
         </suppliersInternal>
         <ownedOperationsInternal>
           <operation
