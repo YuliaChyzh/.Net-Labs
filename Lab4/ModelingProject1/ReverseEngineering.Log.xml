@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2017-11-29T22:59:25" Importance="High" Text="Реконструирование запущено." />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;7b0c47a5-4ed1-4f54-928f-0ba86a77164a&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Boolean&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;c05d7f28-e4a7-4d36-8cfd-e147deed710d&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Integer&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4&quot; -  (Package)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema&quot; -  (Class)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::capacity&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::Cinema&quot; -  (Operation)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::Cinema::capacity&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::Cinema::grp&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::Cinema::id&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::Cinema::name&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::Cinema::type&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::Cinema::year&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::grp&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::id&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::name&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::ToString&quot; -  (Operation)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::type&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Cinema::year&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaComparison&quot; -  (Class)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaComparison::CinemaComparison&quot; -  (Operation)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaComparison::Equals&quot; -  (Operation)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaComparison::Equals::x&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaComparison::Equals::y&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaComparison::GetHashCode&quot; -  (Operation)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaComparison::GetHashCode::obj&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaLink&quot; -  (Class)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaLink::CinemaLink&quot; -  (Operation)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaLink::CinemaLink::i1&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaLink::CinemaLink::i2&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaLink::d1&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::CinemaLink::d2&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Program&quot; -  (Class)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Program::d1&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Program::d1_for_distinct&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Program::d2&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Program::lnk&quot; -  (Property)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Program::Main&quot; -  (Operation)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Program::Main::args&quot; -  (Parameter)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab4::Program::Program&quot; -  (Operation)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System&quot; -  (Package)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections&quot; -  (Package)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic&quot; -  (Package)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::IEqualityComparer&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::IEqualityComparer&lt;Program‎‎.Cinema‎&gt;&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::List&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::List&lt;Program‎‎.Cinema‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Collections::Generic::List&lt;Program‎‎.CinemaLink‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;String&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab4::CinemaComparison в ModelingProject1::System::Collections::Generic::IEqualityComparer&lt;Program‎‎.Cinema‎&gt; (InterfaceRealization)" />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="High" Text="Полностью реконструировано (4) типов." />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="High" Text="Частично реконструировано (5) типов.  Эти типы не были включены в исходный выбор, поэтому их полные определения не реконструированы.  Данная пустая операция лишь проверила наличие этих типов в модели UML, поскольку они необходимы для полного описания других элементов." />
+  <Message Timestamp="2017-11-29T22:59:42" Importance="High" Text="Операция реконструирования завершена; ошибок: (0), предупреждений: (0)." />
+</Log>
