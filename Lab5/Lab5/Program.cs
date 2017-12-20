@@ -161,10 +161,10 @@ namespace Lab5
                 object count = command.ExecuteScalar();
 
                 command.CommandText = "SELECT MIN(n_hour) FROM Subject";
-                object minAge = command.ExecuteScalar();
+                object minHour = command.ExecuteScalar();
 
                 Console.WriteLine("У таблицi Student {0} об'єктiв", count);
-                Console.WriteLine("Мiнiмальна кiлькiсть годин для предмету: {0}", minAge);
+                Console.WriteLine("Мiнiмальна кiлькiсть годин для предмету: {0}", minHour);
             }
 
 
