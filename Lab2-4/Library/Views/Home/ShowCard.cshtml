@@ -1,0 +1,34 @@
+﻿@model LibraryStorage.Models.Card
+@{
+    ViewBag.Title = "ShowCard";
+}
+
+<h2>ShowCard</h2>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td><p>Ім'я</p></td>
+                <td><p>Список книг<p></td>
+            </tr>
+            <tr>
+                <td><p>@ViewBag.userName</p></td>
+                <td>
+                    <ul>
+                        @foreach (var v in Model.Books)
+                        {
+                            <li>@v.Author, @v.Title</li>
+                        }
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

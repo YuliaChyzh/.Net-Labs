@@ -1,0 +1,32 @@
+﻿@model IEnumerable<LibraryStorage.Models.User>
+@{
+    ViewBag.Title = "ShowUser";
+}
+
+<h2>ShowUser</h2>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td><p>Ім'я</p></td>
+                <td></td>
+            </tr>
+            @foreach (LibraryStorage.Models.User v in Model)
+            {
+            <tr>
+                <td><p>@v.Name</p></td>
+                <td><p><a href="/Home/ShowBookwithChoose?id=@v.Id">Додати книгу до формуляру</a><td><p>
+                <td><p><a href="/Home/ShowCard?idUser=@v.Id">Переглянути формуляр</a>
+                <td><p>
+            </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

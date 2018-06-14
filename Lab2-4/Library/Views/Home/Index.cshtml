@@ -1,0 +1,20 @@
+﻿@model IEnumerable<LibraryStorage.Models.Book>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library</title>
+</head>
+<body>
+    <div>
+        <ul>
+            <li>@Html.ActionLink("Перегляд книг", "ShowBook")</li>
+            <li>@Html.ActionLink("Пошук книг", "Search")</li>
+            <li>@Html.ActionLink("Додати книги до формуляру користувача", "ShowUser")</li>
+        </ul>
+    </div>
+</body>
+</html>

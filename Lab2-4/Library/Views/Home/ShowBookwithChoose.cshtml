@@ -1,0 +1,36 @@
+﻿@model IEnumerable<LibraryStorage.Models.Book>
+@{
+    ViewBag.Title = "ShowBookwithChoose";
+}
+
+<h2>ShowBookwithChoose</h2>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Library</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td><p>Автор</p></td>
+                <td><p>Назва книги</p></td>
+                <td><p>Жанр</p></td>
+                <td><p>Нявність</p></td>
+                <td></td>
+            </tr>
+            @foreach (LibraryStorage.Models.Book v in Model)
+            {
+            <tr>
+                <td><p>@v.Author</p></td>
+                <td><p>@v.Title</p></td>
+                <td><p>@v.Subject</p></td>
+                <td><p>@v.Flag</p></td>
+                <td><p><a href="/Home/AddBook?id=@v.Id&idUser=@ViewBag.userId">Додати книгу до формуляру</a></p></td>
+            </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

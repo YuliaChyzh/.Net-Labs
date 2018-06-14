@@ -1,0 +1,43 @@
+﻿@model IEnumerable<LibraryStorage.Models.Book>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search</h2>
+
+<p>
+    <a asp-action="Index">Back</a>
+</p>
+
+<form asp-controller="HomeControler" asp-action="Search" method="get">
+    <p>
+        Title: <input type="text" name="SearchTitle">
+        <input type="submit" value="Filter" />
+
+        Author: <input type="text" name="SearchAuthor">
+        <input type="submit" value="Filter" />
+
+        Subject: <input type="text" name="SearchSubject">
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+<table>
+    <tr>
+        <td><p>Автор</p></td>
+        <td><p>Назва книги</p></td>
+        <td><p>Жанр</p></td>
+        <td><p>Нявність</p></td>
+        <td></td>
+    </tr>
+    @foreach (LibraryStorage.Models.Book v in Model)
+    {
+    <tr>
+        <td><p>@v.Author</p></td>
+        <td><p>@v.Title</p></td>
+        <td><p>@v.Subject</p></td>
+        <td><p>@v.Flag</p></td>
+    </tr>
+    }
+</table>
